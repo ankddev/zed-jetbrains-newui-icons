@@ -1,0 +1,243 @@
+{
+    "$schema": "https://zed.dev/schema/icon_themes/v0.1.0.json",
+    "author": "ANKDDEV",
+    "name": "JetBrains New UI Icons Theme",
+    "themes": [
+        {
+            "name": "JetBrains New UI Icons (Dark)",
+            "appearance": "dark",
+            "directory_icons": {
+                "collapsed": "./icons/folder_dark.svg",
+                "expanded": "./icons/folder_dark.svg"
+            },
+            "file_icons": {
+                "c": {
+                    "path": "./icons/c_dark.svg"
+                },
+                "code": {
+                    "path": "./icons/json.svg"
+                },
+                "cpp": {
+                    "path": "./icons/cpp_dark.svg"
+                },
+                "css": {
+                    "path": "./icons/css_dark.svg"
+                },
+                "dart": {
+                    "path": "./icons/dart_dark.svg"
+                },
+                "default": {
+                    "path": "./icons/anyType_dark.svg"
+                },
+                "docker": {
+                    "path": "./icons/docker.svg"
+                },
+                "document": {
+                    "path": "./icons/text.svg"
+                },
+                "elixir": {
+                    "path": "./icons/elixir_dark.svg"
+                },
+                "erlang": {
+                    "path": "./icons/erlang.svg"
+                },
+                "eslint": {
+                    "path": "./icons/eslint.svg"
+                },
+                "font": {
+                    "path": "./icons/font_dark.svg"
+                },
+                "gleam": {
+                    "path": "./icons/gleam_dark.svg"
+                },
+                "go": {
+                    "path": "./icons/go_dark.svg"
+                },
+                "graphql": {
+                    "path": "./icons/graphql.svg"
+                },
+                "haskell": {
+                    "path": "./icons/haskell.svg"
+                },
+                "hcl": {
+                    "path": "./icons/hcl_dark.svg"
+                },
+                "image": {
+                    "path": "./icons/image_dark.svg"
+                },
+                "java": {
+                    "path": "./icons/java_dark.svg"
+                },
+                "javascript": {
+                    "path": "./icons/javaScript_dark.svg"
+                },
+                "kotlin": {
+                    "path": "./icons/kotlin_dark.svg"
+                },
+                "lua": {
+                    "path": "./icons/lua.svg"
+                },
+                "php": {
+                    "path": "./icons/php_dark.svg"
+                },
+                "python": {
+                    "path": "./icons/python.svg"
+                },
+                "react": {
+                    "path": "./icons/react_dark.svg"
+                },
+                "ruby": {
+                    "path": "./icons/ruby_dark.svg"
+                },
+                "rust": {
+                    "path": "./icons/rustFile_dark.svg"
+                },
+                "scala": {
+                    "path": "./icons/scala_dark.svg"
+                },
+                "settings": {
+                    "path": "./icons/config_dark.svg"
+                },
+                "swift": {
+                    "path": "./icons/swift.svg"
+                },
+                "terminal": {
+                    "path": "./icons/shell_dark.svg"
+                },
+                "terraform": {
+                    "path": "./icons/terraform_dark.svg"
+                },
+                "toml": {
+                    "path": "./icons/toml_dark.svg"
+                },
+                "typescript": {
+                    "path": "./icons/typeScript_dark.svg"
+                },
+                "vcs": {
+                    "path": "./icons/gitignore.svg"
+                },
+                "vue": {
+                    "path": "./icons/vueJs.svg"
+                }
+            }
+        },
+        {
+            "name": "JetBrains New UI Icons (Light)",
+            "appearance": "dark",
+            "directory_icons": {
+                "collapsed": "./icons/folder.svg",
+                "expanded": "./icons/folder.svg"
+            },
+            "file_icons": {
+                "c": {
+                    "path": "./icons/c.svg"
+                },
+                "code": {
+                    "path": "./icons/json.svg"
+                },
+                "cpp": {
+                    "path": "./icons/cpp.svg"
+                },
+                "css": {
+                    "path": "./icons/css.svg"
+                },
+                "dart": {
+                    "path": "./icons/dart.svg"
+                },
+                "default": {
+                    "path": "./icons/anyType.svg"
+                },
+                "docker": {
+                    "path": "./icons/docker.svg"
+                },
+                "document": {
+                    "path": "./icons/text.svg"
+                },
+                "elixir": {
+                    "path": "./icons/elixir.svg"
+                },
+                "erlang": {
+                    "path": "./icons/erlang.svg"
+                },
+                "eslint": {
+                    "path": "./icons/eslint.svg"
+                },
+                "font": {
+                    "path": "./icons/font.svg"
+                },
+                "gleam": {
+                    "path": "./icons/gleam.svg"
+                },
+                "go": {
+                    "path": "./icons/go.svg"
+                },
+                "graphql": {
+                    "path": "./icons/graphql.svg"
+                },
+                "haskell": {
+                    "path": "./icons/haskell.svg"
+                },
+                "hcl": {
+                    "path": "./icons/hcl.svg"
+                },
+                "image": {
+                    "path": "./icons/image.svg"
+                },
+                "java": {
+                    "path": "./icons/java.svg"
+                },
+                "javascript": {
+                    "path": "./icons/javaScript.svg"
+                },
+                "kotlin": {
+                    "path": "./icons/kotlin.svg"
+                },
+                "lua": {
+                    "path": "./icons/lua.svg"
+                },
+                "php": {
+                    "path": "./icons/php.svg"
+                },
+                "python": {
+                    "path": "./icons/python.svg"
+                },
+                "react": {
+                    "path": "./icons/react.svg"
+                },
+                "ruby": {
+                    "path": "./icons/ruby.svg"
+                },
+                "rust": {
+                    "path": "./icons/rustFile.svg"
+                },
+                "scala": {
+                    "path": "./icons/scala.svg"
+                },
+                "settings": {
+                    "path": "./icons/config.svg"
+                },
+                "swift": {
+                    "path": "./icons/swift.svg"
+                },
+                "terminal": {
+                    "path": "./icons/shell.svg"
+                },
+                "terraform": {
+                    "path": "./icons/terraform.svg"
+                },
+                "toml": {
+                    "path": "./icons/toml.svg"
+                },
+                "typescript": {
+                    "path": "./icons/typeScript.svg"
+                },
+                "vcs": {
+                    "path": "./icons/gitignore.svg"
+                },
+                "vue": {
+                    "path": "./icons/vueJs.svg"
+                }
+            }
+        }
+    ]
+}

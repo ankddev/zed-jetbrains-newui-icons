@@ -1,0 +1,7 @@
+id = "jetbrains-newui-icons"
+name = "JetBrains New UI Theme"
+version = "0.2.0"
+schema_version = 1
+authors = ["ANKDDEV"]
+description = "JetBrains New UI icons theme for Zed"
+repository = "https://github.com/ankddev/zed-jetbrains-newui-icons"
