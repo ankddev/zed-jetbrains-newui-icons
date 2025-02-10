@@ -84,7 +84,7 @@
                     "path": "./icons/python.svg"
                 },
                 "react": {
-                    "path": "./icons/react_dark.svg"
+                    "path": "./icons/tsx_dark.svg"
                 },
                 "ruby": {
                     "path": "./icons/ruby_dark.svg"
@@ -202,7 +202,7 @@
                     "path": "./icons/python.svg"
                 },
                 "react": {
-                    "path": "./icons/react.svg"
+                    "path": "./icons/tsx.svg"
                 },
                 "ruby": {
                     "path": "./icons/ruby.svg"
