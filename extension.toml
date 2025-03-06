@@ -1,6 +1,6 @@
 id = "jetbrains-new-ui-icons"
-name = "JetBrains New UI Theme"
-version = "2.0.2"
+name = "JetBrains New UI Icon Theme"
+version = "2.1.0"
 schema_version = 1
 authors = ["ANKDDEV"]
 description = "JetBrains New UI icons theme for Zed"
