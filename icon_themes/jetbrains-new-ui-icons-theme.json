@@ -120,7 +120,7 @@
                     "path": "./icons/vueJs.svg"
                 },
                 "zig": {
-                    "path": "./icons/zig.svg"
+                    "path": "./icons/zig_dark.svg"
                 }
             }
         },
