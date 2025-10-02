@@ -118,6 +118,9 @@
                 },
                 "vue": {
                     "path": "./icons/vueJs.svg"
+                },
+                "zig": {
+                    "path": "./icons/zig.svg"
                 }
             }
         },
@@ -236,6 +239,9 @@
                 },
                 "vue": {
                     "path": "./icons/vueJs.svg"
+                },
+                "zig": {
+                    "path": "./icons/zig.svg"
                 }
             }
         }
