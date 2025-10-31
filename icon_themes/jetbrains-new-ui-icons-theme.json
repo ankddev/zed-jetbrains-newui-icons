@@ -10,9 +10,21 @@
                 "collapsed": "./icons/folder_dark.svg",
                 "expanded": "./icons/folder_dark.svg"
             },
+            "file_stems": {
+              "Makefile": "makefile",
+              "CMakeLists.txt": "cmake"
+            },
+            "file_suffixes": {
+              "cmake": "cmake",
+              "h": "h",
+              "hpp": "hpp"
+            },
             "file_icons": {
                 "c": {
                     "path": "./icons/c_dark.svg"
+                },
+                "cmake": {
+                    "path": "./icons/cmake.svg"
                 },
                 "code": {
                     "path": "./icons/json.svg"
@@ -56,6 +68,9 @@
                 "graphql": {
                     "path": "./icons/graphql.svg"
                 },
+                "h": {
+                  "path": "./icons/h_dark.svg"
+                },
                 "haskell": {
                     "path": "./icons/haskell.svg"
                 },
@@ -76,6 +91,9 @@
                 },
                 "lua": {
                     "path": "./icons/lua.svg"
+                },
+                "makefile": {
+                  "path": "./icons/makefile_dark.svg"
                 },
                 "php": {
                     "path": "./icons/php_dark.svg"
@@ -131,9 +149,21 @@
                 "collapsed": "./icons/folder.svg",
                 "expanded": "./icons/folder.svg"
             },
+            "file_stems": {
+              "Makefile": "makefile",
+              "CMakeLists.txt": "cmake"
+            },
+            "file_suffixes": {
+              "cmake": "cmake",
+              "h": "h",
+              "hpp": "hpp"
+            },
             "file_icons": {
                 "c": {
                     "path": "./icons/c.svg"
+                },
+                "cmake": {
+                    "path": "./icons/cmake.svg"
                 },
                 "code": {
                     "path": "./icons/json.svg"
@@ -177,6 +207,9 @@
                 "graphql": {
                     "path": "./icons/graphql.svg"
                 },
+                "h": {
+                  "path": "./icons/h.svg"
+                },
                 "haskell": {
                     "path": "./icons/haskell.svg"
                 },
@@ -197,6 +230,9 @@
                 },
                 "lua": {
                     "path": "./icons/lua.svg"
+                },
+                "makefile": {
+                  "path": "./icons/makefile.svg"
                 },
                 "php": {
                     "path": "./icons/php.svg"
