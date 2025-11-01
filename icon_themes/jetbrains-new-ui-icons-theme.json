@@ -17,7 +17,7 @@
             "file_suffixes": {
               "cmake": "cmake",
               "h": "h",
-              "hpp": "hpp"
+              "hpp": "h"
             },
             "file_icons": {
                 "c": {
@@ -69,6 +69,9 @@
                     "path": "./icons/graphql.svg"
                 },
                 "h": {
+                  "path": "./icons/h_dark.svg"
+                },
+                "hpp": {
                   "path": "./icons/h_dark.svg"
                 },
                 "haskell": {
@@ -156,7 +159,7 @@
             "file_suffixes": {
               "cmake": "cmake",
               "h": "h",
-              "hpp": "hpp"
+              "hpp": "h"
             },
             "file_icons": {
                 "c": {
@@ -208,6 +211,9 @@
                     "path": "./icons/graphql.svg"
                 },
                 "h": {
+                  "path": "./icons/h.svg"
+                },
+                "hpp": {
                   "path": "./icons/h.svg"
                 },
                 "haskell": {
