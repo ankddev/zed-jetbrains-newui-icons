@@ -17,7 +17,7 @@
             "file_suffixes": {
               "cmake": "cmake",
               "h": "h",
-              "hpp": "h"
+              "hpp": "hpp"
             },
             "file_icons": {
                 "c": {
@@ -159,7 +159,7 @@
             "file_suffixes": {
               "cmake": "cmake",
               "h": "h",
-              "hpp": "h"
+              "hpp": "hpp"
             },
             "file_icons": {
                 "c": {
