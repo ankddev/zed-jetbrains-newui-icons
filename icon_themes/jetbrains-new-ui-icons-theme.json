@@ -16,12 +16,16 @@
             },
             "file_suffixes": {
               "cmake": "cmake",
+              "cs": "csharp",
               "h": "h",
               "hpp": "hpp"
             },
             "file_icons": {
                 "c": {
                     "path": "./icons/c_dark.svg"
+                },
+                "csharp": {
+                    "path": "./icons/csharp_dark.svg"
                 },
                 "cmake": {
                     "path": "./icons/cmake.svg"
@@ -158,12 +162,16 @@
             },
             "file_suffixes": {
               "cmake": "cmake",
+              "cs": "csharp",
               "h": "h",
               "hpp": "hpp"
             },
             "file_icons": {
                 "c": {
                     "path": "./icons/c.svg"
+                },
+                "csharp": {
+                    "path": "./icons/csharp.svg"
                 },
                 "cmake": {
                     "path": "./icons/cmake.svg"
