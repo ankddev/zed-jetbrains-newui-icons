@@ -11,13 +11,16 @@
                 "expanded": "./icons/folder_dark.svg"
             },
             "file_stems": {
-              "Makefile": "makefile",
-              "CMakeLists.txt": "cmake"
+                "Makefile": "makefile",
+                "CMakeLists.txt": "cmake"
             },
             "file_suffixes": {
-              "cmake": "cmake",
-              "h": "h",
-              "hpp": "hpp"
+                "cmake": "cmake",
+                "h": "h",
+                "hpp": "hpp",
+                "mod": "goMod",
+                "sum": "goSum",
+                "work": "goWork"
             },
             "file_icons": {
                 "c": {
@@ -65,14 +68,23 @@
                 "go": {
                     "path": "./icons/go_dark.svg"
                 },
+                "goMod": {
+                    "path": "./icons/goMod_dark.svg"
+                },
+                "goSum": {
+                    "path": "./icons/goSum_dark.svg"
+                },
+                "goWork": {
+                    "path": "./icons/goWork_dark.svg"
+                },
                 "graphql": {
                     "path": "./icons/graphql.svg"
                 },
                 "h": {
-                  "path": "./icons/h_dark.svg"
+                    "path": "./icons/h_dark.svg"
                 },
                 "hpp": {
-                  "path": "./icons/h_dark.svg"
+                    "path": "./icons/h_dark.svg"
                 },
                 "haskell": {
                     "path": "./icons/haskell.svg"
@@ -96,7 +108,7 @@
                     "path": "./icons/lua.svg"
                 },
                 "makefile": {
-                  "path": "./icons/makefile_dark.svg"
+                    "path": "./icons/makefile_dark.svg"
                 },
                 "php": {
                     "path": "./icons/php_dark.svg"
@@ -153,13 +165,16 @@
                 "expanded": "./icons/folder.svg"
             },
             "file_stems": {
-              "Makefile": "makefile",
-              "CMakeLists.txt": "cmake"
+                "Makefile": "makefile",
+                "CMakeLists.txt": "cmake"
             },
             "file_suffixes": {
-              "cmake": "cmake",
-              "h": "h",
-              "hpp": "hpp"
+                "cmake": "cmake",
+                "h": "h",
+                "hpp": "hpp",
+                "mod": "gomMod",
+                "sum": "gomSum",
+                "work": "goWork"
             },
             "file_icons": {
                 "c": {
@@ -207,14 +222,23 @@
                 "go": {
                     "path": "./icons/go.svg"
                 },
+                "goMod": {
+                    "path": "./icons/goMod.svg"
+                },
+                "goSum": {
+                    "path": "./icons/goSum.svg"
+                },
+                "goWork": {
+                    "path": "./icons/goWork.svg"
+                },
                 "graphql": {
                     "path": "./icons/graphql.svg"
                 },
                 "h": {
-                  "path": "./icons/h.svg"
+                    "path": "./icons/h.svg"
                 },
                 "hpp": {
-                  "path": "./icons/h.svg"
+                    "path": "./icons/h.svg"
                 },
                 "haskell": {
                     "path": "./icons/haskell.svg"
@@ -238,7 +262,7 @@
                     "path": "./icons/lua.svg"
                 },
                 "makefile": {
-                  "path": "./icons/makefile.svg"
+                    "path": "./icons/makefile.svg"
                 },
                 "php": {
                     "path": "./icons/php.svg"
