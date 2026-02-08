@@ -1,4 +1,4 @@
-<h1>JetBrains New UI Icon Theme for Zed</h1>
+# JetBrains New UI Icon Theme for Zed
 Simple icon theme for Zed editor with icons from JetBrains IDE's New UI. It includes two themes for both light and dark UI.
 
 ## TODO
