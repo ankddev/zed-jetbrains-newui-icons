@@ -16,6 +16,7 @@
             },
             "file_suffixes": {
                 "cmake": "cmake",
+                "cs": "csharp",
                 "h": "h",
                 "hpp": "hpp",
                 "mod": "goMod",
@@ -25,6 +26,9 @@
             "file_icons": {
                 "c": {
                     "path": "./icons/c_dark.svg"
+                },
+                "csharp": {
+                    "path": "./icons/csharp_dark.svg"
                 },
                 "cmake": {
                     "path": "./icons/cmake.svg"
@@ -170,15 +174,19 @@
             },
             "file_suffixes": {
                 "cmake": "cmake",
+                "cs": "csharp",
                 "h": "h",
                 "hpp": "hpp",
-                "mod": "gomMod",
-                "sum": "gomSum",
+                "mod": "goMod",
+                "sum": "goSum",
                 "work": "goWork"
             },
             "file_icons": {
                 "c": {
                     "path": "./icons/c.svg"
+                },
+                "csharp": {
+                    "path": "./icons/csharp.svg"
                 },
                 "cmake": {
                     "path": "./icons/cmake.svg"
