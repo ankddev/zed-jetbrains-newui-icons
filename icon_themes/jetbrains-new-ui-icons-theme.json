@@ -21,7 +21,15 @@
                 "hpp": "hpp",
                 "mod": "goMod",
                 "sum": "goSum",
-                "work": "goWork"
+                "work": "goWork",
+                "editorconfig": "editorconfig",
+                "md": "md",
+                "html": "html",
+                "csv": "csv",
+                "text": "text",
+                "yaml": "yaml",
+                "xml": "xml",
+                "jsx": "jsx"
             },
             "file_icons": {
                 "c": {
@@ -51,7 +59,7 @@
                 "docker": {
                     "path": "./icons/docker.svg"
                 },
-                "document": {
+                "text": {
                     "path": "./icons/text.svg"
                 },
                 "elixir": {
@@ -136,7 +144,7 @@
                     "path": "./icons/config_dark.svg"
                 },
                 "swift": {
-                    "path": "./icons/swift.svg"
+                    "path": "./icons/swift_dark.svg"
                 },
                 "terminal": {
                     "path": "./icons/shell_dark.svg"
@@ -158,6 +166,30 @@
                 },
                 "zig": {
                     "path": "./icons/zig_dark.svg"
+                },
+                "svelte": {
+                    "path": "./icons/svelte_dark.svg"
+                },
+                "editorconfig": {
+                    "path": "./icons/editorConfig_dark.svg"
+                },
+                "md": {
+                    "path": "./icons/markdown_dark.svg"
+                },
+                "html": {
+                    "path": "./icons/html_dark.svg"
+                },
+                "csv": {
+                    "path": "./icons/csv_dark.svg"
+                },
+                "yaml": {
+                    "path": "./icons/yaml_dark.svg"
+                },
+                "xml": {
+                    "path": "./icons/xml_dark.svg"
+                },
+                "jsx": {
+                    "path": "./icons/jsx_dark.svg"
                 }
             }
         },
@@ -179,7 +211,15 @@
                 "hpp": "hpp",
                 "mod": "goMod",
                 "sum": "goSum",
-                "work": "goWork"
+                "work": "goWork",
+                "editorconfig": "editorconfig",
+                "md": "md",
+                "html": "html",
+                "csv": "csv",
+                "text": "text",
+                "yaml": "yaml",
+                "xml": "xml",
+                "jsx": "jsx"
             },
             "file_icons": {
                 "c": {
@@ -209,7 +249,7 @@
                 "docker": {
                     "path": "./icons/docker.svg"
                 },
-                "document": {
+                "text": {
                     "path": "./icons/text.svg"
                 },
                 "elixir": {
@@ -316,6 +356,30 @@
                 },
                 "zig": {
                     "path": "./icons/zig.svg"
+                },
+                "svelte": {
+                    "path": "./icons/svelte.svg"
+                },
+                "editorconfig": {
+                    "path": "./icons/editorConfig.svg"
+                },
+                "md": {
+                    "path": "./icons/markdown.svg"
+                },
+                "html": {
+                    "path": "./icons/html.svg"
+                },
+                "csv": {
+                    "path": "./icons/csv.svg"
+                },
+                "yaml": {
+                    "path": "./icons/yaml.svg"
+                },
+                "xml": {
+                    "path": "./icons/xml.svg"
+                },
+                "jsx": {
+                    "path": "./icons/jsx.svg"
                 }
             }
         }
