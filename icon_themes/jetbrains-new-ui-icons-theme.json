@@ -26,7 +26,6 @@
                 "md": "md",
                 "html": "html",
                 "csv": "csv",
-                "text": "text",
                 "yaml": "yaml",
                 "xml": "xml",
                 "jsx": "jsx"
@@ -41,8 +40,8 @@
                 "cmake": {
                     "path": "./icons/cmake.svg"
                 },
-                "code": {
-                    "path": "./icons/json.svg"
+                "json": {
+                    "path": "./icons/json_dark.svg"
                 },
                 "cpp": {
                     "path": "./icons/cpp_dark.svg"
@@ -59,8 +58,8 @@
                 "docker": {
                     "path": "./icons/docker.svg"
                 },
-                "text": {
-                    "path": "./icons/text.svg"
+                "document": {
+                    "path": "./icons/text_dark.svg"
                 },
                 "elixir": {
                     "path": "./icons/elixir_dark.svg"
@@ -216,7 +215,6 @@
                 "md": "md",
                 "html": "html",
                 "csv": "csv",
-                "text": "text",
                 "yaml": "yaml",
                 "xml": "xml",
                 "jsx": "jsx"
@@ -231,7 +229,7 @@
                 "cmake": {
                     "path": "./icons/cmake.svg"
                 },
-                "code": {
+                "json": {
                     "path": "./icons/json.svg"
                 },
                 "cpp": {
@@ -249,7 +247,7 @@
                 "docker": {
                     "path": "./icons/docker.svg"
                 },
-                "text": {
+                "document": {
                     "path": "./icons/text.svg"
                 },
                 "elixir": {
