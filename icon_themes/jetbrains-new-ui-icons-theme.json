@@ -28,7 +28,9 @@
                 "csv": "csv",
                 "yaml": "yaml",
                 "xml": "xml",
-                "jsx": "jsx"
+                "jsx": "jsx",
+                "sql": "sql",
+                "less": "less"
             },
             "file_icons": {
                 "c": {
@@ -189,6 +191,15 @@
                 },
                 "jsx": {
                     "path": "./icons/jsx_dark.svg"
+                },
+                "sql": {
+                    "path": "./icons/sql_dark.svg"
+                },
+                "lock": {
+                    "path": "./icons/locked_dark.svg"
+                },
+                "less": {
+                    "path": "./icons/less_dark.svg"
                 }
             }
         },
@@ -217,7 +228,9 @@
                 "csv": "csv",
                 "yaml": "yaml",
                 "xml": "xml",
-                "jsx": "jsx"
+                "jsx": "jsx",
+                "sql": "sql",
+                "less": "less"
             },
             "file_icons": {
                 "c": {
@@ -378,6 +391,15 @@
                 },
                 "jsx": {
                     "path": "./icons/jsx.svg"
+                },
+                "sql": {
+                    "path": "./icons/sql.svg"
+                },
+                "lock": {
+                    "path": "./icons/locked.svg"
+                },
+                "less": {
+                    "path": "./icons/less.svg"
                 }
             }
         }
