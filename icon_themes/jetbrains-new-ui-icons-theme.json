@@ -21,7 +21,16 @@
                 "hpp": "hpp",
                 "mod": "goMod",
                 "sum": "goSum",
-                "work": "goWork"
+                "work": "goWork",
+                "editorconfig": "editorconfig",
+                "md": "md",
+                "html": "html",
+                "csv": "csv",
+                "yaml": "yaml",
+                "xml": "xml",
+                "jsx": "jsx",
+                "sql": "sql",
+                "less": "less"
             },
             "file_icons": {
                 "c": {
@@ -33,8 +42,8 @@
                 "cmake": {
                     "path": "./icons/cmake.svg"
                 },
-                "code": {
-                    "path": "./icons/json.svg"
+                "json": {
+                    "path": "./icons/json_dark.svg"
                 },
                 "cpp": {
                     "path": "./icons/cpp_dark.svg"
@@ -52,7 +61,7 @@
                     "path": "./icons/docker.svg"
                 },
                 "document": {
-                    "path": "./icons/text.svg"
+                    "path": "./icons/text_dark.svg"
                 },
                 "elixir": {
                     "path": "./icons/elixir_dark.svg"
@@ -136,7 +145,7 @@
                     "path": "./icons/config_dark.svg"
                 },
                 "swift": {
-                    "path": "./icons/swift.svg"
+                    "path": "./icons/swift_dark.svg"
                 },
                 "terminal": {
                     "path": "./icons/shell_dark.svg"
@@ -158,6 +167,39 @@
                 },
                 "zig": {
                     "path": "./icons/zig_dark.svg"
+                },
+                "svelte": {
+                    "path": "./icons/svelte_dark.svg"
+                },
+                "editorconfig": {
+                    "path": "./icons/editorConfig_dark.svg"
+                },
+                "md": {
+                    "path": "./icons/markdown_dark.svg"
+                },
+                "html": {
+                    "path": "./icons/html_dark.svg"
+                },
+                "csv": {
+                    "path": "./icons/csv_dark.svg"
+                },
+                "yaml": {
+                    "path": "./icons/yaml_dark.svg"
+                },
+                "xml": {
+                    "path": "./icons/xml_dark.svg"
+                },
+                "jsx": {
+                    "path": "./icons/jsx_dark.svg"
+                },
+                "sql": {
+                    "path": "./icons/sql_dark.svg"
+                },
+                "lock": {
+                    "path": "./icons/locked_dark.svg"
+                },
+                "less": {
+                    "path": "./icons/less_dark.svg"
                 }
             }
         },
@@ -179,7 +221,16 @@
                 "hpp": "hpp",
                 "mod": "goMod",
                 "sum": "goSum",
-                "work": "goWork"
+                "work": "goWork",
+                "editorconfig": "editorconfig",
+                "md": "md",
+                "html": "html",
+                "csv": "csv",
+                "yaml": "yaml",
+                "xml": "xml",
+                "jsx": "jsx",
+                "sql": "sql",
+                "less": "less"
             },
             "file_icons": {
                 "c": {
@@ -191,7 +242,7 @@
                 "cmake": {
                     "path": "./icons/cmake.svg"
                 },
-                "code": {
+                "json": {
                     "path": "./icons/json.svg"
                 },
                 "cpp": {
@@ -316,6 +367,39 @@
                 },
                 "zig": {
                     "path": "./icons/zig.svg"
+                },
+                "svelte": {
+                    "path": "./icons/svelte.svg"
+                },
+                "editorconfig": {
+                    "path": "./icons/editorConfig.svg"
+                },
+                "md": {
+                    "path": "./icons/markdown.svg"
+                },
+                "html": {
+                    "path": "./icons/html.svg"
+                },
+                "csv": {
+                    "path": "./icons/csv.svg"
+                },
+                "yaml": {
+                    "path": "./icons/yaml.svg"
+                },
+                "xml": {
+                    "path": "./icons/xml.svg"
+                },
+                "jsx": {
+                    "path": "./icons/jsx.svg"
+                },
+                "sql": {
+                    "path": "./icons/sql.svg"
+                },
+                "lock": {
+                    "path": "./icons/locked.svg"
+                },
+                "less": {
+                    "path": "./icons/less.svg"
                 }
             }
         }
