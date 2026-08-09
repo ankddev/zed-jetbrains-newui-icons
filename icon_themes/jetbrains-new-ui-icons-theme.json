@@ -8,7 +8,7 @@
             "appearance": "dark",
             "directory_icons": {
                 "collapsed": "./icons/folder_dark.svg",
-                "expanded": "./icons/folder_dark.svg"
+                "expanded": "./icons/folder_open_dark.svg"
             },
             "file_stems": {
                 "Makefile": "makefile",
@@ -166,7 +166,7 @@
             "appearance": "dark",
             "directory_icons": {
                 "collapsed": "./icons/folder.svg",
-                "expanded": "./icons/folder.svg"
+                "expanded": "./icons/folder_open.svg"
             },
             "file_stems": {
                 "Makefile": "makefile",
