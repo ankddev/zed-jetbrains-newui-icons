@@ -67,7 +67,7 @@
                     "path": "./icons/font_dark.svg"
                 },
                 "gleam": {
-                    "path": "./icons/gleam_dark.svg"
+                    "path": "./icons/gleam.svg"
                 },
                 "go": {
                     "path": "./icons/go_dark.svg"
