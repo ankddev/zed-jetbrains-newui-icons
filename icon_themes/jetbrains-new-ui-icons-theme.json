@@ -19,6 +19,7 @@
                 "cs": "csharp",
                 "h": "h",
                 "hpp": "hpp",
+                "liquid": "liquid",
                 "mod": "goMod",
                 "sum": "goSum",
                 "work": "goWork"
@@ -108,6 +109,9 @@
                 "kotlin": {
                     "path": "./icons/kotlin_dark.svg"
                 },
+                "liquid": {
+                    "path": "./icons/liquid.svg"
+                },
                 "lua": {
                     "path": "./icons/lua.svg"
                 },
@@ -177,6 +181,7 @@
                 "cs": "csharp",
                 "h": "h",
                 "hpp": "hpp",
+                "liquid": "liquid",
                 "mod": "goMod",
                 "sum": "goSum",
                 "work": "goWork"
@@ -265,6 +270,9 @@
                 },
                 "kotlin": {
                     "path": "./icons/kotlin.svg"
+                },
+                "liquid": {
+                    "path": "./icons/liquid.svg"
                 },
                 "lua": {
                     "path": "./icons/lua.svg"
