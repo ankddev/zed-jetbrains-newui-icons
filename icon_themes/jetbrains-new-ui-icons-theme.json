@@ -20,7 +20,15 @@
                 "h": "h",
                 "hpp": "hpp",
                 "mod": "goMod",
+                "spec.js": "jsTest",
+                "spec.jsx": "jsxTest",
+                "spec.ts": "tsTest",
+                "spec.tsx": "tsxTest",
                 "sum": "goSum",
+                "test.js": "jsTest",
+                "test.jsx": "jsxTest",
+                "test.ts": "tsTest",
+                "test.tsx": "tsxTest",
                 "work": "goWork"
             },
             "file_icons": {
@@ -105,6 +113,12 @@
                 "javascript": {
                     "path": "./icons/javaScript_dark.svg"
                 },
+                "jsTest": {
+                    "path": "./icons/jsTest_dark.svg"
+                },
+                "jsxTest": {
+                    "path": "./icons/jsxTest_dark.svg"
+                },
                 "kotlin": {
                     "path": "./icons/kotlin_dark.svg"
                 },
@@ -147,6 +161,12 @@
                 "toml": {
                     "path": "./icons/toml_dark.svg"
                 },
+                "tsTest": {
+                    "path": "./icons/tsTest_dark.svg"
+                },
+                "tsxTest": {
+                    "path": "./icons/tsxTest_dark.svg"
+                },
                 "typescript": {
                     "path": "./icons/typeScript_dark.svg"
                 },
@@ -178,7 +198,15 @@
                 "h": "h",
                 "hpp": "hpp",
                 "mod": "goMod",
+                "spec.js": "jsTest",
+                "spec.jsx": "jsxTest",
+                "spec.ts": "tsTest",
+                "spec.tsx": "tsxTest",
                 "sum": "goSum",
+                "test.js": "jsTest",
+                "test.jsx": "jsxTest",
+                "test.ts": "tsTest",
+                "test.tsx": "tsxTest",
                 "work": "goWork"
             },
             "file_icons": {
@@ -263,6 +291,12 @@
                 "javascript": {
                     "path": "./icons/javaScript.svg"
                 },
+                "jsTest": {
+                    "path": "./icons/jsTest.svg"
+                },
+                "jsxTest": {
+                    "path": "./icons/jsxTest.svg"
+                },
                 "kotlin": {
                     "path": "./icons/kotlin.svg"
                 },
@@ -304,6 +338,12 @@
                 },
                 "toml": {
                     "path": "./icons/toml.svg"
+                },
+                "tsTest": {
+                    "path": "./icons/tsTest.svg"
+                },
+                "tsxTest": {
+                    "path": "./icons/tsxTest.svg"
                 },
                 "typescript": {
                     "path": "./icons/typeScript.svg"
